@@ -13,12 +13,12 @@ const App = () => {
       <HeadComponent/>
       <div className="container">
         <header className="header-container">
-          <p className="header">  🧛🏻 Buildspace Emoji Store 🃏∂</p>
+          <p className="header">  🧛🏻 Bagholders Paradise 🃏∂</p>
           <p className="sub-text">We make future bagholders</p>
         </header>
 
         <main>
-          <img src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif" alt="emoji" />
+          <img src="https://media.giphy.com/media/mf4qECoTz8ZVK/giphy.gif" alt="emoji" />
         </main>
 
         <div className="footer-container">
