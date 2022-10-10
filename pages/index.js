@@ -13,7 +13,7 @@ const App = () => {
       <HeadComponent/>
       <div className="container">
         <header className="header-container">
-          <p className="header">  🧛🏻 Bagholders Paradises 🃏∂</p>
+          <p className="header">  🧛🏻 Bagholders Paradise 🃏</p>
           <p className="sub-text">We make future bagholders</p>
         </header>
 
