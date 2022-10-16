@@ -1,6 +1,6 @@
 .App {
   height: 100vh;
-  background: linear-gradient(54.1deg, #000000, rgb(0, 0, 0) 70.2%, rgb(0, 0, 0));
+  background: linear-gradient(33.1deg, #3cefff, rgb(0, 0, 0) 70.2%, rgb(255, 21, 157));
   text-align: center;
   overflow: hidden;
 }
@@ -29,15 +29,19 @@
   font-size: 50px;
   font-weight: bold;
   color: rgb(255, 255, 255);
+  background: -webkit-linear-gradient(left, #ff32c2 30%, #3ad8ff 60%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   
 }
 
 .sub-text {
   font-size: 25px;
-  background: rgb(255, 255, 255);
-  animation: textclip 5s linear infinite;
-          background-clip: text;
-          -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(left, #ff32c2 30%, #3ad8ff 60%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .gradient-text {

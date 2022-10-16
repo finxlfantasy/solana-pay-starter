@@ -18,7 +18,7 @@ const App = () => {
 
   const renderNotConnectedContainer = () => (
     <div>
-      <img src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif" alt="emoji" />
+      <img src="https://behindtheveil.carrd.co/assets/images/image08.gif?v=f47b3202" alt="emoji" />
 
     <div className="button-container">
       <WalletMultiButton className="cta-button connect-wallet-button" />
@@ -50,8 +50,8 @@ const App = () => {
       <HeadComponent/>
       <div className="container">
         <header className="header-container">
-          <p className="header"> ⛩️ <span>Jujutu Kaisen Head Fight</span> ✊</p>
-          <p className="sub-text">Pick ur chibi fighter! </p>
+          <p className="header"> ⛩️ <span>Jujutu Kaisen - The games </span> ⛩️</p>
+          <p className="sub-text">Pick your chibi fighter! </p>
 
       {isOwner && ( 
         <button className = "create-product-button" onClick = {() => setCreating(!creating)}>
