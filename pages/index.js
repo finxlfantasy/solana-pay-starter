@@ -50,7 +50,7 @@ const App = () => {
       <HeadComponent/>
       <div className="container">
         <header className="header-container">
-          <p className="header"> ⛩️ <span>Jujutu Kaisen - The games </span> ⛩️</p>
+          <p className="header"> ⛩️ <span>Jujutu Kaisen - The game </span> ⛩️</p>
           <p className="sub-text">Pick your chibi fighter! </p>
 
       {isOwner && ( 
