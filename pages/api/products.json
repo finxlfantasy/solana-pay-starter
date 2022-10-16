@@ -1,11 +1,32 @@
 [
-    {
-        "id": 1,
-        "name": "emoji pack",
-        "price": "0.99",
-        "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
-        "image_url" : "https://i.imgur.com/rVD8bjt.png",
-        "filename": "Emojis.zip",
-        "hash": "QmcrVpuCDjgfDmGjUTpw9tMTu7hyMWAv7kAm9kiLkYMya8"
-    }
+  {
+    "id": 1,
+    "name": "Suguru Geto",
+    "price": "0.18",
+    "description": "Special Grade",
+    "image_url": "https://media0.giphy.com/media/MmYXMmS28boBh2PYQp/giphy.gif?cid=6c09b952lskbgtwvpt1o2y75xobq2hwwxrs19qw8auzbj2px&rid=giphy.gif&ct=s",
+    "filename": "Emojis.zip",
+    "hash": "QmcrVpuCDjgfDmGjUTpw9tMTu7hyMWAv7kAm9kiLkYMya8"
+  },
+  {
+    "id": 2,
+    "name": "Goro Satoru",
+    "price": "0.18 ",
+    "image_url": "https://media2.giphy.com/media/VESEbRRGALYWOemYmE/200w.webp",
+    "description": "Special-grade sorcerer"
+  },
+  {
+    "id": 3,
+    "name": "Itadori",
+    "price": "0.09",
+    "image_url": "https://media0.giphy.com/media/RlJUeopQdby0jhGs6J/giphy.gif?cid=6c09b952mjp9dhj5neou21vpsh5xpk3r9yuder7oxnxk7zu9&rid=giphy.gif&ct=s",
+    "description": "No grade "
+  },
+  {
+    "id": 4,
+    "name": "Panda",
+    "price": "0.09",
+    "image_url": "https://media1.giphy.com/media/f1bVo767Y9ltd6oUkC/giphy.gif?cid=6c09b9525cdo5kbqq3lyhvmzr1yidbru4jsdlnhfzghgedw0&rid=giphy.gif&ct=s",
+    "description": "Grade 2 sorcerer "
+  }
 ]
