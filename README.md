@@ -13,3 +13,8 @@ If you use VSCode to build your app, we included a list of suggested extensions 
 
 ### **Questions?**
 Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/) and link your Discord account so you can get access to helpful channels teaching assistants, and your instructor!
+
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/113019900/211854918-f17f0aea-8d9c-42a9-adfe-55b834c14246.png">
+
+
+<img width="1271" alt="image" src="https://user-images.githubusercontent.com/113019900/211854755-d79e4b13-605f-44ad-83ec-e663b5287678.png">
